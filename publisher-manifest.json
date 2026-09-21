@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "365427e6a2949cd794841d74",
+  "owner": "vcenct",
+  "repo": "page-cfd61e79d6a9ad859286052e",
+  "title": "HashCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cfd61e79d6a9ad859286052e",
+      "a": "HashCloud",
+      "b": "2027官方最新地址导航",
+      "entity": "HashCloud",
+      "brand": "HashCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e40edcb501b650beac5a9a07cc7cdc742c29f76d399d6fffbfd8026f77790e67",
+      "content": {
+        "primary_entity": "HashCloud",
+        "keyword1": "HashCloud",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端，查阅订阅配置说明后导入使用。",
+          "AI_CLIENTS_TITLE": "设备客户端",
+          "AI_CLOSING_TEXT": "对比套餐，选定适合的流量与设备数方案，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_DESCRIPTION": "，连接服务后可用于跨境访问、流媒体观看与游戏加速等场景。HashCloud 提供基础版、旗舰版与团队版三档套餐，分别面向轻量使用、多设备日常与高流量团队需求，按年付可减少月度支出。设备端按操作系统选择对应客户端，导入订阅后即可在多台设备上使用。套餐差异主要体现在每月流量、同时在线设备数与节点类型，可按自身使用习惯挑选。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与订阅周期三个角度快速判断适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，按年付 150 元，适合轻量浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速，按年付 350 元。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，VIP 高带宽节点，按年付 850 元。",
+          "AI_FEATURE_TITLE_1": "基础版轻量",
+          "AI_FEATURE_TITLE_2": "旗舰版均衡",
+          "AI_FEATURE_TITLE_3": "团队版高流量",
+          "AI_GUIDE_INTRO": "先选服务、再看适配要求，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "HashCloud 提供多档跨境加速订阅，覆盖流媒体解锁、游戏加速与日常浏览场景。按月或按年选择基础版、旗舰版或团队版，按设备数量选择客户端，导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按设备数量灵活配置",
+          "AI_HIGHLIGHT_3": "月付年付两种周期",
+          "AI_PLANS_INTRO": "基础版月付 15 元、旗舰版 35 元、团队版 85 元；按年付分别为 150 元、350 元、850 元。流量与设备数依次递增。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数量与是否需游戏加速，在基础版、旗舰版、团队版之间选出对应订阅。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端要求，查看订阅支持的设备数量是否覆盖自己的使用场景。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅配置说明导入节点信息，完成后在各设备上启用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "HashCloud 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出后可升级套餐，或先在旧设备上退出登录再切换。",
+          "AI_FAQ_ANSWER_2": "基础版 100GB，旗舰版 300GB，团队版 1000GB。观看高清视频或日常办公，300GB 通常够单月使用。",
+          "AI_FAQ_ANSWER_3": "支持，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，折合每月比月付更省。",
+          "AI_FAQ_ANSWER_4": "在应用内粘贴订阅链接即可，客户端会自动拉取节点列表；更换设备时重新导入相同链接。",
+          "AI_FAQ_ANSWER_5": "旗舰版带 IPLC 专线游戏加速优化，适合对延迟敏感的游戏场景；基础版为普通线路节点池，日常浏览与流媒体足够。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "每月流量用完后会怎样？",
+          "AI_FAQ_QUESTION_3": "支持按年付费吗？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "玩游戏选哪个套餐更合适？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jyond.cn",
+    "host": "jyond.cn"
+  },
+  "file_hashes": {
+    "index.html": "683e8fd4b3fedfbb6aa435352b640fb2b5ede211509f83d41dc40e9c6b6805e8",
+    "sitemap.xml": "ecfa1bd0ff6388402005d3a1e5b573e8439e40d260ef143680c2620791ae7467",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "208b18bbec0e39643f2fa7ac634a73ecace8d6a454129aa6df755634e7c8044b",
+    "robots.txt": "831116db3b95e16e0552c05538a845b11cac165a3f15e863d93c5ba350fdaf6e",
+    "d12d4128fff2ff3ea66a3e88ce302248.txt": "465cf679efb99054c5aaa344f588402435c916c32fc6844013c447caf578633a"
+  },
+  "revision": "14977713eadc702725be421686a69284f4e9619a6f97c43c572fcd8c38a686ac"
+}
